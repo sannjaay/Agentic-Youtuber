@@ -2,7 +2,7 @@ import subprocess
 import os
 import re
 
-VOICE = 
+VOICE = "en_US-lessac-medium"
 
 def clean_text(text: str) -> str:
     # remove non-ascii / problematic unicode
