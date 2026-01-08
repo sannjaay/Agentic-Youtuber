@@ -5,8 +5,6 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 import pickle
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
-
 def get_authenticated_service():
     creds = None
 
