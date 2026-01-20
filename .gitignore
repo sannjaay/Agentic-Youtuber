@@ -1,4 +1,4 @@
 .env
 venv
-clinet_secrets.json
+client_secret.json
 token.pickle
