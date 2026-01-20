@@ -113,3 +113,15 @@ flowchart TD
 ```
 
 ---
+
+## Support and Contribution
+
+- Open issues for questions or bug reports.
+- Submit pull requests for improvements or new features.
+- See `CONTRIBUTING.md` for detailed contribution guidelines.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
